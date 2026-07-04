@@ -58,7 +58,7 @@ Design a human-in-the-loop application to declutter large photo libraries using 
    streamlit run app.py
    ```
 
-## 👥 Mentors
+## Mentors
 Special thanks to the project mentors from ACA, IIT Kanpur:
 - Yashjeet Singh
 - Kush Bhartiya
